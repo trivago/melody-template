@@ -11,20 +11,21 @@
     "build": "webpack --progress --colors --display-chunks"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "webpack": "^3.8.1",
-    "webpack-dev-server": "^2.9.3"
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
   },
   "dependencies": {
-    "melody-component": "^1.0.0",
-    "melody-hoc": "^1.0.0",
-    "melody-idom": "^1.0.0",
-    "melody-loader": "^1.0.0",
-    "melody-parser": "^1.0.0",
-    "melody-plugin-idom": "^1.0.0",
-    "melody-traverse": "^1.0.0",
-    "melody-types": "^1.0.0"
+    "melody-component": "^1.1.0",
+    "melody-hoc": "^1.1.0",
+    "melody-idom": "^1.1.0",
+    "melody-loader": "^1.1.0",
+    "melody-parser": "^1.1.0",
+    "melody-plugin-idom": "^1.1.0",
+    "melody-traverse": "^1.1.0",
+    "melody-types": "^1.1.0"
   }
 }
